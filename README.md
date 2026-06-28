@@ -8,10 +8,6 @@
 python server.py --port 8023
 ```
 
-- 参与者端：http://127.0.0.1:8023/
-- 操作助手后台：http://127.0.0.1:8023/admin.html
-- 默认后台密钥：`nimang-admin`
-
 可通过环境变量 `NIMANG_ADMIN_KEY` 修改后台密钥，通过 `NIMANG_DB` 指定数据库文件。
 
 ## 角色流程
